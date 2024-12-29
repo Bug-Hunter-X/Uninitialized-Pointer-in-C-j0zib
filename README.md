@@ -1,0 +1,1 @@
+# Uninitialized Pointer Bug in C This repository demonstrates a common error in C programming: using an uninitialized pointer.  Uninitialized pointers can lead to unpredictable behavior, crashes, and security vulnerabilities. The example code shows how an uninitialized pointer can cause a segmentation fault and how this error can be fixed.
